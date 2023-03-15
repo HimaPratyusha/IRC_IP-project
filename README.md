@@ -1,1 +1,4 @@
 # IRC_IP-project
+I have worked on a project with my team related to the Inter Networking Protocol using the Internet Relay Chat (IRC). Our project involved setting up a single IRC server, which allowed users to connect to it via an IRC client. The protocol we used enabled users to create a unique server username and participate in both private and group chats across multiple IRC channels. My contribution in this project was mainly in server side.I have developed the code related to it which is mainly used to create different chat rooms and the functionality to switch between various rooms.
+
+Our project's scope was not limited to just text-based chats. We also incorporated audio functionality and encrypted messaging to ensure secure communication between users. Overall, our project aimed to provide a comprehensive and user-friendly IRC experience for our target audience.
